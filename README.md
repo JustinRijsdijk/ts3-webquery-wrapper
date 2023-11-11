@@ -1,10 +1,11 @@
-# Very short description of the package
+# Laravel Teamspeak 3 WebQuery Wrapper
+Please take in mind that this is still a work in progress.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/justinrijsdijk/ts3-webquery-wrapper.svg?style=flat-square)](https://packagist.org/packages/justinrijsdijk/ts3-webquery-wrapper)
 [![Total Downloads](https://img.shields.io/packagist/dt/justinrijsdijk/ts3-webquery-wrapper.svg?style=flat-square)](https://packagist.org/packages/justinrijsdijk/ts3-webquery-wrapper)
 ![GitHub Actions](https://github.com/justinrijsdijk/ts3-webquery-wrapper/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+This package will allow you to easily access the teamspeak webquery api by providing you with an easy to use wrapper.
 
 ## Installation
 
