@@ -6,7 +6,7 @@ use GuzzleHttp\Client;
 
 class Ts3WebqueryWrapper
 {
-    protected $httpClient;
+    protected Client $httpClient;
 
     public function __construct()
     {
